@@ -91,9 +91,7 @@ jsonHelper.loadJson( String path, String filename,int loadTag);
         }
     }
  ```
- 
- ###删除全部缓存文件
- 
+###删除全部缓存文件
  jsonHelper.clearAllCache(String path, int deleteAllTag);
  
  参数意义相同
